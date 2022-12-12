@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SerialLed</string>
+    <string name="txtTitle">Control LED via Serial USB</string>
+    <string name="txtBtnOn">Conectar</string>
+    <string name="txtBtnOff">Desconectar</string>
+    <string name="txtPin12">PIN 12 ROJO</string>
+    <string name="txtPin11">PIN 11 AMARILLO</string>
+    <string name="txtPin10">PIN 10 VERDE</string>
+    <string name="txtPin13">PIN 13</string>
+
+</resources>
